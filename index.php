@@ -10,5 +10,6 @@
     <h1>Soy el Index</h1>
     <h1>Soy el Index</h1>
     <h1>Soy el index modificado desde GitHub remoto</h1>
+    <h2>Esta modificacion es desde VScode local</h2>
 </body>
 </html>
